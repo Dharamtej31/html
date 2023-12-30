@@ -1,0 +1,19 @@
+.container-sub{
+border: 1px solid red;
+padding: 5px;
+text-align:center ;
+
+}
+h1{
+color: chartreuse;
+font-size:medium;
+font-weight: bold;
+
+
+}
+img{
+height: 150px;
+width: 150px;
+
+
+}
